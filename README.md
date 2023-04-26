@@ -13,3 +13,6 @@
 	- You have to create a twitch account for yourself if you don't have one already, and then also create one for the bot.
 	- You need to [register the app](https://dev.twitch.tv/docs/authentication/register-app/) on your main account, not the bot account. You may use this guide from the TwitchAPI as a frame of reference.
 	- There are a few lines in the app.js and auth.js files that will need to be changed as some of the information is generated specific to your twitch account and project.
+	
+# Bugs
+- There is currently a bug in the auth.js code, I have yet to fix it, however the access code it generates should still be valid for app.js.
