@@ -2,7 +2,7 @@
 - This bot is going to start off with a few basic features, including:
 	- Recurring messages & reminders for chatters
 	- Moderation for specific keywords
-	- Interactive commands like rolling dice, or 8ball qusetions, etc.
+	- Interactive commands like rolling dice, or 8ball questions, etc.
 
 - The goal is to introduce more complexity and features over time!
 	
